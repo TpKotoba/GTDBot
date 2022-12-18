@@ -1,0 +1,21 @@
+# Intermediates
+*.o
+*.bin
+*.pyc
+
+# Local
+note*
+tool*
+secret*
+result*
+.archive/*
+
+# Develop settings
+.vscode/*
+
+# Desktop services store
+.DS_Store
+desktop.ini
+
+# parameters
+sensitive_settings.py
