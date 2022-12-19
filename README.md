@@ -5,7 +5,7 @@
 dependencies:
 
 ```
-pip install flask, line-bot-sdk
+pip install flask line-bot-sdk
 ```
 
 run:
